@@ -26,8 +26,7 @@ function closePopup(){
 }
 
 function openForm(){
-    document.getElementById("form-container").style.display = "block";
-        content.classList.add("hide-content");
+    document.location.href='#form-container';
 }
 
 function checkValues(){
