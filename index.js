@@ -26,7 +26,7 @@ function closePopup(){
 }
 
 function openForm(){
-    document.location.href='#form-container';
+    document.location.href='#form-container'
 }
 
 function checkValues(){
